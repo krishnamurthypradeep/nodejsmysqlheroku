@@ -1,8 +1,8 @@
 const mysql = require('promise-mysql');
 
 const dbConfig ={
-    user:'',
-    password:'',
+    user:'bf1d661d1bdd60',
+    password:'af940f20',
     database: 'heroku_cb422b84ff43fef',
     host: 'us-cdbr-east-03.cleardb.com',
     connectionLimit:10
